@@ -1,2 +1,3 @@
-# crystal-discord.github.io
-Website for Crystal. WIP
+# Crystal Website
+
+Website for the Crystal bot, and community. Work in progress!
